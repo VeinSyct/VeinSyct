@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VeinSyct
 - 👀 I’m interested in designing a virtual world
-- 🌱 I’m currently learning many things
+- 🌱 I’m currently learning many things and developing a digital cash that will replace money
 - 💞️ I’m looking to collaborate on creating a virtual world
 
 <!---
